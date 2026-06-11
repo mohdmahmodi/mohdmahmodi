@@ -1,114 +1,72 @@
-# Mohd Mahmodi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Computer+Vision+%26+NLP+Specialist;Full-Stack+Developer;AI+Research+Enthusiast" alt="Typing SVG" />
-</p>
+# Mohd Mahmodi
 
-**📍 California, USA**
+**Computer Science @ Sacramento State | Full Stack Developer | Machine Learning**
 
-<div align="left">
-<img src="https://ghtb-counter.vercel.app/api/counter?username=mohdyahyamahmodi&label=Views&color=000000&labelColor=000000&labelBgColor=ffffff&countColor=ffffff&style=flat" alt="Profile Views" />
+[![Website](https://img.shields.io/badge/mohdmahmodi.com-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohdmahmodi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdmahmodi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohd@mahmodi.com)
+[![X](https://img.shields.io/badge/@mohdmahmodi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mohdmahmodi)
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## About
 
-## 🚀 About Me
+Computer Science student at Sacramento State building real products under **[Mahmodi Labs](https://mahmodilabs.com)**. My projects serve 30,000+ visits per month, including an App Store app rated 4.9 with over 4,000 downloads. Currently working toward machine learning engineering.
 
-I'm a Computer Science student and Machine Learning Engineer specializing in **computer vision** and **natural language processing**. I build intelligent systems that solve real-world problems using modern frameworks like PyTorch and TensorFlow, while expanding my expertise in full-stack web development.
+## Tech Stack
 
-My work spans from interactive quantum physics simulations at [**Mahmodi Labs**](https://mahmodilabs.com) to developing AI-powered applications that bridge the gap between complex theoretical concepts and practical solutions.
+**Languages**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Technical Expertise
+**Frameworks and Tools**
 
-**🛠️ Languages & Frameworks**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="35" alt="Rust" />
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**🌐 Web Technologies**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="35" alt="Express" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="35" alt="Socket.io" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="35" alt="Nginx" />
-</div>
+## Featured Projects
 
-**☁️ Cloud & Database**
-<div align="left">
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="35" alt="Vercel" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="Firebase" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="35" alt="PowerShell" />
-</div>
+### [Talkomatic](https://talkomatic.co)
+Modern revival of the world's first multi-user chat platform from 1973. Live since 2024 with 20,000+ monthly visits. Built with Node.js and Socket.IO, now on v4.
 
-## 🤝 Connect With Me
+### [Music Player: Offline, No Ads](https://apps.apple.com/us/app/music-player-offline-no-ads/id6756036292)
+Offline music player for iOS on the App Store. 4.9 rating with 4,100+ downloads. Built with Flutter.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Let's%20Build%20Something%20Amazing!&height=100&section=header&fontSize=24"/>
-</p>
+### [CSUSRooms](https://csusrooms.com)
+Finds empty classrooms at Sacramento State in real time. Built by reverse engineering the campus scheduling API. 3,800+ visits from students across campus.
 
-I'm always interested in collaborating on innovative projects, discussing the latest developments in machine learning, or exploring how AI can solve complex real-world challenges.
+### [erasebg.dev](https://erasebg.dev)
+Free background removal that runs entirely in the browser. No uploads, no servers, full privacy. 10,000+ monthly visits.
 
-<div align="left">
-  <a href="https://mohdmahmodi.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohdmahmodi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/mohdmahmodi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://discordapp.com/users/995434860896321576" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <a href="https://x.com/mohdmahmodi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter" />
-  </a>
-</div>
+### [Splitflap](https://splitflap.org)
+Open source split-flap display board in the browser, 15+ boards active daily. Built with Node.js and WebSockets.
 
-## 📊 GitHub Analytics
+### [Drpl.co](https://drpl.co)
+Serverless file sharing between devices on the same network. No accounts, no cloud, just WebRTC.
+
+More projects in [my repositories](https://github.com/mohdmahmodi?tab=repositories)
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdyahyamahmodi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdyahyamahmodi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdmahmodi&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdmahmodi&layout=compact&theme=github_dark&hide_border=true)
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohdyahyamahmodi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Contribution Streak" />
-  <img src="https://github-profile-trophy.vercel.app?username=mohdyahyamahmodi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub Trophies" />
+
+**California** · [mohdmahmodi.com](https://mohdmahmodi.com)
+
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mohdyahyamahmodi/mohdyahyamahmodi/output/snake.svg" alt="GitHub Contribution Snake Animation" />
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
