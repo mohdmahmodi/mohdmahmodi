@@ -2,7 +2,7 @@
 
 # Mohd Mahmodi
 
-**Computer Science @ Sacramento State | Full Stack Developer | Machine Learning**
+**Computer Science | Full Stack Developer | Machine Learning**
 
 [![Website](https://img.shields.io/badge/mohdmahmodi.com-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohdmahmodi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdmahmodi)
@@ -13,7 +13,7 @@
 
 ## About
 
-Computer Science student at Sacramento State building real products under **[Mahmodi Labs](https://mahmodilabs.com)**. My projects serve 30,000+ visits per month, including an App Store app rated 4.9 with over 4,000 downloads. Currently working toward machine learning engineering.
+Computer Science student building real products under **[Mahmodi Labs](https://mahmodilabs.com)**. My projects serve 30,000+ visits per month, including an App Store app rated 4.9 with over 4,000 downloads. Currently working toward machine learning engineering.
 
 ## Tech Stack
 
@@ -37,21 +37,27 @@ Computer Science student at Sacramento State building real products under **[Mah
 ## Featured Projects
 
 ### [Talkomatic](https://talkomatic.co)
+
 Modern revival of the world's first multi-user chat platform from 1973. Live since 2024 with 20,000+ monthly visits. Built with Node.js and Socket.IO, now on v4.
 
 ### [Music Player: Offline, No Ads](https://apps.apple.com/us/app/music-player-offline-no-ads/id6756036292)
+
 Offline music player for iOS on the App Store. 4.9 rating with 4,100+ downloads. Built with Flutter.
 
 ### [CSUSRooms](https://csusrooms.com)
-Finds empty classrooms at Sacramento State in real time. Built by reverse engineering the campus scheduling API. 3,800+ visits from students across campus.
+
+Finds empty classrooms on campus in real time. Built by reverse engineering the campus scheduling API. 3,800+ visits from students across campus.
 
 ### [erasebg.dev](https://erasebg.dev)
+
 Free background removal that runs entirely in the browser. No uploads, no servers, full privacy. 10,000+ monthly visits.
 
 ### [Splitflap](https://splitflap.org)
+
 Open source split-flap display board in the browser, 15+ boards active daily. Built with Node.js and WebSockets.
 
 ### [Drpl.co](https://drpl.co)
+
 Serverless file sharing between devices on the same network. No accounts, no cloud, just WebRTC.
 
 More projects in [my repositories](https://github.com/mohdmahmodi?tab=repositories)
